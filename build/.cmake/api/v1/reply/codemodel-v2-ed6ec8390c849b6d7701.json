@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Proj2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "click::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-click-Release-dbf0709d65a93d5bc0d0.json",
+					"name" : "click",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cube::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cube-Release-50e4b3ba6979c246cebc.json",
+					"name" : "cube",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cute::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cute-Release-c73a8862fced000fb002.json",
+					"name" : "cute",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "font::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-font-Release-777459376e1bdf07d727.json",
+					"name" : "font",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "loading::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-loading-Release-a0f5d5ef88e642037c9f.json",
+					"name" : "loading",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/tph/Desktop/Projs/demo-2d/build",
+		"source" : "C:/Users/tph/Desktop/Projs/demo-2d"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

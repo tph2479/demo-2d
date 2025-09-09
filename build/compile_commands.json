@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/tph/Desktop/Projs/demo-2d/build",
+  "command": "C:\\Users\\TPH\\Desktop\\Utils\\Portable\\msys\\mingw64\\bin\\clang++.exe  @CMakeFiles/font.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++23 -o CMakeFiles\\font.dir\\src\\font.cpp.obj -c C:\\Users\\tph\\Desktop\\Projs\\demo-2d\\src\\font.cpp",
+  "file": "C:/Users/tph/Desktop/Projs/demo-2d/src/font.cpp",
+  "output": "CMakeFiles/font.dir/src/font.cpp.obj"
+},
+{
+  "directory": "C:/Users/tph/Desktop/Projs/demo-2d/build",
+  "command": "C:\\Users\\TPH\\Desktop\\Utils\\Portable\\msys\\mingw64\\bin\\clang++.exe  @CMakeFiles/cube.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++23 -o CMakeFiles\\cube.dir\\src\\cube.cpp.obj -c C:\\Users\\tph\\Desktop\\Projs\\demo-2d\\src\\cube.cpp",
+  "file": "C:/Users/tph/Desktop/Projs/demo-2d/src/cube.cpp",
+  "output": "CMakeFiles/cube.dir/src/cube.cpp.obj"
+},
+{
+  "directory": "C:/Users/tph/Desktop/Projs/demo-2d/build",
+  "command": "C:\\Users\\TPH\\Desktop\\Utils\\Portable\\msys\\mingw64\\bin\\clang++.exe  @CMakeFiles/cute.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++23 -o CMakeFiles\\cute.dir\\src\\cute.cpp.obj -c C:\\Users\\tph\\Desktop\\Projs\\demo-2d\\src\\cute.cpp",
+  "file": "C:/Users/tph/Desktop/Projs/demo-2d/src/cute.cpp",
+  "output": "CMakeFiles/cute.dir/src/cute.cpp.obj"
+},
+{
+  "directory": "C:/Users/tph/Desktop/Projs/demo-2d/build",
+  "command": "C:\\Users\\TPH\\Desktop\\Utils\\Portable\\msys\\mingw64\\bin\\clang++.exe  @CMakeFiles/click.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++23 -o CMakeFiles\\click.dir\\src\\click_effect.cpp.obj -c C:\\Users\\tph\\Desktop\\Projs\\demo-2d\\src\\click_effect.cpp",
+  "file": "C:/Users/tph/Desktop/Projs/demo-2d/src/click_effect.cpp",
+  "output": "CMakeFiles/click.dir/src/click_effect.cpp.obj"
+},
+{
+  "directory": "C:/Users/tph/Desktop/Projs/demo-2d/build",
+  "command": "C:\\Users\\TPH\\Desktop\\Utils\\Portable\\msys\\mingw64\\bin\\clang++.exe  @CMakeFiles/loading.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++23 -o CMakeFiles\\loading.dir\\src\\loading.cpp.obj -c C:\\Users\\tph\\Desktop\\Projs\\demo-2d\\src\\loading.cpp",
+  "file": "C:/Users/tph/Desktop/Projs/demo-2d/src/loading.cpp",
+  "output": "CMakeFiles/loading.dir/src/loading.cpp.obj"
+}
+]

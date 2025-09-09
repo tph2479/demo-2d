@@ -1,0 +1,136 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "Clang",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/Users/tph/Desktop/Utils/Portable/msys/mingw64/lib/clang/20/include",
+						"C:/Users/tph/Desktop/Utils/Portable/msys/mingw64/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/Users/tph/Desktop/Utils/Portable/msys/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0",
+						"C:/Users/tph/Desktop/Utils/Portable/msys/mingw64/x86_64-w64-mingw32/lib",
+						"C:/Users/tph/Desktop/Utils/Portable/msys/mingw64/x86_64-w64-mingw32/mingw/lib",
+						"C:/Users/tph/Desktop/Utils/Portable/msys/mingw64/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32"
+					]
+				},
+				"path" : "C:/Users/TPH/Desktop/Utils/Portable/msys/mingw64/bin/clang.exe",
+				"version" : "20.1.7"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "Clang",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/Users/tph/Desktop/Utils/Portable/msys/mingw64/include/c++/15.1.0",
+						"C:/Users/tph/Desktop/Utils/Portable/msys/mingw64/include/c++/15.1.0/x86_64-w64-mingw32",
+						"C:/Users/tph/Desktop/Utils/Portable/msys/mingw64/include/c++/15.1.0/backward",
+						"C:/Users/tph/Desktop/Utils/Portable/msys/mingw64/lib/clang/20/include",
+						"C:/Users/tph/Desktop/Utils/Portable/msys/mingw64/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/Users/tph/Desktop/Utils/Portable/msys/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0",
+						"C:/Users/tph/Desktop/Utils/Portable/msys/mingw64/x86_64-w64-mingw32/lib",
+						"C:/Users/tph/Desktop/Utils/Portable/msys/mingw64/x86_64-w64-mingw32/mingw/lib",
+						"C:/Users/tph/Desktop/Utils/Portable/msys/mingw64/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32"
+					]
+				},
+				"path" : "C:/Users/TPH/Desktop/Utils/Portable/msys/mingw64/bin/clang++.exe",
+				"version" : "20.1.7"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm",
+				"ccm",
+				"cxxm",
+				"c++m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "C:/Users/tph/Desktop/Utils/Portable/msys/mingw64/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

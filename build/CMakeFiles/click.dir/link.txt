@@ -1,0 +1,3 @@
+C:\Users\tph\Desktop\Utils\Portable\msys\mingw64\bin\cmake.exe -E rm -f CMakeFiles\click.dir/objects.a
+C:\Users\tph\Desktop\Utils\Portable\msys\mingw64\bin\ar.exe qc CMakeFiles\click.dir/objects.a @CMakeFiles\click.dir\objects1.rsp
+C:\Users\TPH\Desktop\Utils\Portable\msys\mingw64\bin\clang++.exe -O3 -DNDEBUG -mwindows -Wl,--whole-archive CMakeFiles\click.dir/objects.a -Wl,--no-whole-archive -o release\click.exe -Wl,--out-implib,libclick.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\click.dir\linkLibs.rsp

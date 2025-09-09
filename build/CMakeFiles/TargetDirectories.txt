@@ -1,0 +1,7 @@
+C:/Users/tph/Desktop/Projs/demo-2d/build/CMakeFiles/font.dir
+C:/Users/tph/Desktop/Projs/demo-2d/build/CMakeFiles/cube.dir
+C:/Users/tph/Desktop/Projs/demo-2d/build/CMakeFiles/cute.dir
+C:/Users/tph/Desktop/Projs/demo-2d/build/CMakeFiles/click.dir
+C:/Users/tph/Desktop/Projs/demo-2d/build/CMakeFiles/loading.dir
+C:/Users/tph/Desktop/Projs/demo-2d/build/CMakeFiles/edit_cache.dir
+C:/Users/tph/Desktop/Projs/demo-2d/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,29 @@
+{
+    "version": 8,
+    "configurePresets": [
+        {
+            "name": "Release",
+            "displayName": "Clang - Release",
+            "binaryDir": "${sourceDir}/build",
+            "generator": "MinGW Makefiles",
+            "cacheVariables": {
+                "CMAKE_INSTALL_PREFIX": "${sourceDir}/install",
+                "CMAKE_C_COMPILER": "C:/Users/TPH/Desktop/Utils/Portable/msys/mingw64/bin/clang.exe",
+                "CMAKE_CXX_COMPILER": "C:/Users/TPH/Desktop/Utils/Portable/msys/mingw64/bin/clang++.exe",
+                "CMAKE_BUILD_TYPE": "Release"
+            }
+        },
+        {
+            "name": "Debug",
+            "displayName": "Clang - Debug",
+            "binaryDir": "${sourceDir}/build",
+            "generator": "MinGW Makefiles",
+            "cacheVariables": {
+                "CMAKE_INSTALL_PREFIX": "${sourceDir}/install",
+                "CMAKE_C_COMPILER": "C:/Users/TPH/Desktop/Utils/Portable/msys/mingw64/bin/clang.exe",
+                "CMAKE_CXX_COMPILER": "C:/Users/TPH/Desktop/Utils/Portable/msys/mingw64/bin/clang++.exe",
+                "CMAKE_BUILD_TYPE": "Debug"
+            }
+        }
+    ]
+}
